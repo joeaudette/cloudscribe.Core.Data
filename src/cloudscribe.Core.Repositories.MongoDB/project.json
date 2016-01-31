@@ -1,10 +1,10 @@
-{
+﻿{
   "version": "1.0.0-*",
-  "title": "cloudscribe.Core.Repositories.SqlCe",
-  "description": "cloudscribe Core Repositories for SqlServer Compact edition",
+  "title": "cloudscribe.Core.Repositories.MongoDB",
+  "description": "cloudscribe Core Repositories MongoDB implementation",
   "authors": [ "Joe Audette" ],
   "owners": [ "Source Tree Solutions" ],
-  "tags": [ "cloudscribe", "repositories", "sqlce", "SqlServerCe" ],
+  "tags": [ "cloudscribe", "repositories", "mongodb", "nosql" ],
   "projectUrl": "https://github.com/joeaudette/cloudscribe.Core.Data",
   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
   "copyright": "2015 Source Tree Solutions",
@@ -14,17 +14,14 @@
 
   "dependencies": {
     "cloudscribe.Core.Models": "1.0.0-*",
-    "cloudscribe.DbHelpers.SqlCe": "1.0.0-*",
-    "Microsoft.SqlServer.Compact": "4.0.8876.1",
-    "Microsoft.Extensions.Logging": "1.0.0-rc1-final",
-    "Microsoft.Extensions.OptionsModel": "1.0.0-rc1-final"
+    "Microsoft.Extensions.Logging.Abstractions": "1.0.0-rc1-final",
+    "Microsoft.Extensions.OptionsModel": "1.0.0-rc1-final",
+    "Microsoft.Extensions.DependencyInjection": "1.0.0-rc1-final",
+    "MongoDB.Driver": "(2.2.1,3.0.0]"
   },
 
   "frameworks": {
-    "net451": {
-      "frameworkAssemblies": {
-        "System.Data": ""
-      }
-    }
+    "net451": { }
+
   }
-} 
+}

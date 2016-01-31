@@ -1,11 +1,11 @@
 {
-    "version": "1.0.0-*",
-    "title": "cloudscribe.Core.Repositories.Firebird",
+  "version": "1.0.0-*",
+  "title": "cloudscribe.Core.Repositories.Firebird",
   "description": "Core repositories for FirebirdSql. if you want to use Firebird as the database with cloudscribe.Core.Web, install this and change the dependency injection configuration for ISiteRepository, IUserRepository, and IGeoRepository",
   "authors": [ "Joe Audette" ],
   "owners": [ "Source Tree Solutions" ],
-  "tags": [ "cloudscribe","repositories","firebird","firebirdsql" ],
-  "projectUrl": "https://github.com/joeaudette/cloudscribe",
+  "tags": [ "cloudscribe", "repositories", "firebird", "firebirdsql" ],
+  "projectUrl": "https://github.com/joeaudette/cloudscribe.Core.Data",
   "licenseUrl": "http://www.apache.org/licenses/LICENSE-2.0",
   "copyright": "2015 Source Tree Solutions",
   "iconUrl": "https://raw.githubusercontent.com/joeaudette/cloudscribe/master/cloudscribe-icon-32.png",
@@ -22,8 +22,8 @@
     "Microsoft.Extensions.OptionsModel": "1.0.0-rc1-final"
   },
 
-    "frameworks": {
-        "net451": { }
+  "frameworks": {
+    "net451": { }
 
-    }
+  }
 }
