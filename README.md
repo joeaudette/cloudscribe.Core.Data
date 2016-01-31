@@ -9,7 +9,7 @@ A goal of the cloudscribe Core project is to not impose a specific ORM (Object R
 
 ## What About NoSql?
 
-I'm kind of interested in MongoDB myself, and plan to try implementing a set of cloudscribe Core data repositories using MongoDB. I'm not sure at the moment how soon I will get around to playing with MongoDB, but I stubbed out a project for it here and would welcome help if there are any MongoDB enthusiasts reading this. From my initial study, C# code for Mongo looks fairly similar to Entity Framework code, so it could be informed by that code. I copied the implementations from our current EF implementation and commented out the methods. So work could proceed by uncommenting methods one by one and replacing the EF code with MongoDB C# code. I would love to hear form anyone who is interested in helping with this.
+I'm kind of interested in MongoDB myself, and plan to try implementing a set of cloudscribe Core data repositories using MongoDB. I'm not sure at the moment how soon I will get around to playing with MongoDB, but I stubbed out a project for it here and would welcome help if there are any MongoDB enthusiasts reading this. From my initial study, C# code for Mongo looks fairly similar to Entity Framework code, so it could be informed by that code. I copied the implementations from our current EF implementation and commented out the methods. So work could proceed by uncommenting methods one by one and replacing the EF code with MongoDB C# code. I would love to hear from anyone who is interested in helping with this.
 
 ## Help Wanted
 
