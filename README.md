@@ -13,7 +13,7 @@ I'm kind of interested in MongoDB myself, and plan to try implementing a set of 
 
 ## Help Wanted
 
-There are 2 ways that you could be of help. The first is to provide feedback, if you are using one of these data access layers and you see it has fallen behind in implementation, let us know you are using it, the more feedback we get that something is being used the more priority it will get. I monitor the cloudscribe gitter chat on a regular basis and you can leave a massage there to let me know which data layers are important to you. You can also ask general questions or just be social.
+There are 2 ways that you could be of help. The first is to provide feedback, if you are using one of these data access layers and you see it has fallen behind in implementation, let us know you are using it, the more feedback we get that something is being used the more priority it will get. I monitor the cloudscribe gitter chat on a regular basis and you can chat with me if I'm around or leave a message there to let me know which data layers are important to you. You can also ask general questions or just be social.
 
 [![Join the chat at https://gitter.im/joeaudette/cloudscribe](https://badges.gitter.im/joeaudette/cloudscribe.svg)](https://gitter.im/joeaudette/cloudscribe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
