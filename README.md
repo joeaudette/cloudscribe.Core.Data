@@ -33,3 +33,5 @@ https://github.com/joeaudette/cloudscribe/blob/master/CONTRIBUTING.md
 ## Related Projects
 
 *  [cloudscribe.Setup](https://github.com/joeaudette/cloudscribe.Setup) the ADO.NET data layers don't have a code dependency on cloudscribe.Setup but are by convention designed to be used with cloudscribe.Setup which handles execution of the install and upgrade sql scripts
+ 
+Follow me on twitter @cloudscribeweb and @joeaudette
