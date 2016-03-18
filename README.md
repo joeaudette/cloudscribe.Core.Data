@@ -1,6 +1,8 @@
 # cloudscribe.Core.Data
 Various database implementations for the cloudscribe.Core.Models repository interfaces
 
+[![Join the chat at https://gitter.im/joeaudette/cloudscribe](https://badges.gitter.im/joeaudette/cloudscribe.svg)](https://gitter.im/joeaudette/cloudscribe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Background
 
 The cloudscribe Core projects started out using a lot of existing data access code from the mojoPortal project. mojoPortal is a web content system built on the older ASP.NET WebForms framework and is no longer being actively developed except for security fixes. Since I had a lot of good data access code for mutliple data platforms to start with and since I wanted to facilitate a possibility for easy migration of mojoPortal sites and users to cloudscribe I started the cloudscribe project by refactoring the mojoportal data access code.
@@ -14,8 +16,6 @@ I'm kind of interested in MongoDB myself, and plan to try implementing a set of 
 ## Help Wanted
 
 There are 2 ways that you could be of help. The first is to provide feedback, if you are using one of these data access layers and you see it has fallen behind in implementation, let us know you are using it, the more feedback we get that something is being used the more priority it will get. I monitor the cloudscribe gitter chat on a regular basis and you can chat with me if I'm around or leave a message there to let me know which data layers are important to you. You can also ask general questions or just be social.
-
-[![Join the chat at https://gitter.im/joeaudette/cloudscribe](https://badges.gitter.im/joeaudette/cloudscribe.svg)](https://gitter.im/joeaudette/cloudscribe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 You could offer to help maintain the code for one or more of these data layers that is important to you. I can tell you that my order of priority for these data layers is:
 
